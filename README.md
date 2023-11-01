@@ -1,3 +1,8 @@
-# My NEOVIM lua config
+# My NEOVIM lua config (pretty cool)
 
-Pretty cool
+Dependencies:
+    - packer.nvim
+    - node
+    - npm
+    - python3
+    - pip
