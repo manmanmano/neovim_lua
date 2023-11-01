@@ -2,7 +2,6 @@
 
 Dependencies:
     - packer.nvim
-    - node
-    - npm
+    - node (18.x.x)
     - python3
-    - pip
+    - pip3
