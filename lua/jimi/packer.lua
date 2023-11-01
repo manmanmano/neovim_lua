@@ -99,4 +99,7 @@ return require('packer').startup(function(use)
   -- devicons
   use 'ryanoasis/vim-devicons'
 
+  -- copilot
+  use 'github/copilot.vim'
+
 end)
