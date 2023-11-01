@@ -2,6 +2,7 @@
 
 Dependencies:
 
+    - neovim (0.9.x)
     - packer.nvim
     - node (18.x.x)
     - python3
