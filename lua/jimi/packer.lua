@@ -65,9 +65,9 @@ return require('packer').startup(function(use)
   }
 
   -- cmp
-  --  use 'hrsh7/cmp-buffer'
-  --  use 'hrsh7/cmp-cmdline'
-  --  use 'hrsh7/cmp-path'
+  use 'hrsh7th/cmp-buffer'
+  use 'hrsh7th/cmp-cmdline'
+  use 'hrsh7th/cmp-path'
   
   -- vim-gitgutter
   use 'airblade/vim-gitgutter'
