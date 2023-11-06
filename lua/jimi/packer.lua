@@ -93,8 +93,12 @@ return require('packer').startup(function(use)
      requires = { 'nvim-tree/nvim-web-devicons', opt = true }
   }
 
-  -- nerdtree
-  use 'preservim/nerdtree'
+  -- nvim-tree
+  use {
+  'nvim-tree/nvim-tree.lua',
+  requires = {
+    'nvim-tree/nvim-web-devicons', opt = true }
+  }
 
   -- devicons
   use 'ryanoasis/vim-devicons'
