@@ -106,6 +106,9 @@ return require('packer').startup(function(use)
   -- copilot
   use 'github/copilot.vim'
 
+  -- vim-commentary
+  use 'tpope/vim-commentary'
+
   -- toggleterm
   use {"akinsho/toggleterm.nvim", tag = '*', config = function()
     require("toggleterm").setup()
