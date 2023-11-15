@@ -1,5 +1,7 @@
 vim.opt.encoding ="UTF-8"
 
+vim.opt.timeoutlen = 200
+
 vim.opt.nu = true
 vim.opt.relativenumber = true
 
