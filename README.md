@@ -7,3 +7,4 @@ Dependencies:
     - node (18.x.x)
     - python3
     - pip3
+    - clang
