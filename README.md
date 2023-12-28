@@ -8,3 +8,5 @@ Dependencies:
     - python3
     - pip3
     - clang
+    - ripgrep
+    - lazygit
