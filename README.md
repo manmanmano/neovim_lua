@@ -10,3 +10,4 @@ Dependencies:
     - clang
     - ripgrep
     - lazygit
+    - xclip
