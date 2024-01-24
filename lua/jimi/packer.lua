@@ -45,7 +45,7 @@ return require('packer').startup(function(use)
             end
         })
     end
-  }  
+  }
 
   use 'sainnhe/everforest'
   use { "ellisonleao/gruvbox.nvim" }
