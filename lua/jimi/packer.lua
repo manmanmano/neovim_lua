@@ -134,6 +134,9 @@ return require('packer').startup(function(use)
     'nvim-tree/nvim-web-devicons', opt = true }
   }
 
+  -- rainbow parens
+  use 'HiPhish/nvim-ts-rainbow2'
+
   -- devicons
   use 'ryanoasis/vim-devicons'
 
