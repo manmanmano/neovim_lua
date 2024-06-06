@@ -38,3 +38,6 @@ vim.keymap.set("n", "<leader>ls", ":ls<CR>:b<Space>")
 vim.keymap.set("n", "<leader>bn", ":bn<CR>")
 vim.keymap.set("n", "<leader>bp", ":bp<CR>")
 vim.keymap.set("n", "<leader>bd", ":bd<CR>")
+
+-- remove trailing whitespaces
+vim.keymap.set("n", "<leader>t", ":%s/\\s\\+$//<CR>")
