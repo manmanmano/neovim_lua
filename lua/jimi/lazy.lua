@@ -24,6 +24,7 @@ require("lazy").setup({
   -- Colorschemes
   'sainnhe/everforest',
   { "ellisonleao/gruvbox.nvim" },
+  { "catppuccin/nvim", name = "catppuccin" },
 
   -- Treesitter
   {
