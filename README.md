@@ -1,5 +1,8 @@
 # My NEOVIM lua config (pretty cool)
 
+Remarks:
+    - Plugins are installed into `~/.local/share/nvim/`
+
 Dependencies:
 
     - neovim (0.9.x+)
@@ -10,4 +13,4 @@ Dependencies:
     - clang
     - ripgrep
     - lazygit
-    - xclip
+    - xclip (Not needed on macOS)
