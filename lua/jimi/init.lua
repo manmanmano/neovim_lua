@@ -3,7 +3,7 @@ require("jimi.lazy")
 require("jimi.set")
 
 --NVIM colorscheme:
-vim.cmd[[colorscheme gruvbox]]
+vim.cmd[[colorscheme everforest]]
 
 vim.cmd('autocmd BufEnter * set formatoptions-=cro')
 vim.cmd('autocmd BufEnter * setlocal formatoptions-=cro')
