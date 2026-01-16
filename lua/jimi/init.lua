@@ -1,5 +1,5 @@
 require("jimi.remap")
-require("jimi.packer")
+require("jimi.lazy")
 require("jimi.set")
 
 --NVIM colorscheme:

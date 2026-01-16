@@ -2,8 +2,8 @@
 
 Dependencies:
 
-    - neovim (0.9.x)
-    - packer.nvim
+    - neovim (0.9.x+)
+    - lazy.nvim (auto-installed on first launch)
     - node (18.x.x+)
     - python3
     - pip3
